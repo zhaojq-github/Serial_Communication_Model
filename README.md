@@ -1,4 +1,7 @@
 # Serial_Communication_Model
-C++ serial communication model
 
-g++ -g  main.cpp serialport.cpp -o serialport
+C++ Serial Communication model （串口通信模块）
+
+## Flow Chart
+
+![](img/serial_communication.jpg)
